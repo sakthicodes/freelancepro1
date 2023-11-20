@@ -1,0 +1,5 @@
+1. change the login timeline to last user logged in
+2. Add 5-6 accounts
+3. Last 10 transactions, add but don't display for now
+4. keep provision for adding new pages in future
+5. Please refer to the image for the accounts provided. 
